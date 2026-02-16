@@ -41,6 +41,17 @@
 <li>I added the "Sales" data from the "Sales" table. The "Target", "Variance", and "Variance Margin" from the "Targets" table.</li>
 <li>I formatted it to change the text size and background colour of the visual.</li>
 <li>I added a Clustered Bar Chart</li>
+<li>I added the "Month" from the "Date" table to the Y-axis. As well as "Month" from the "Date" table and "Target" from the "Targets" table to the X-axis</li>
+<li>I copied and pasted the visual onto the empty half of the page.</li>
+<li>I modified the new chart to a Clustered Column Chart</li>
 </ul>
-<p>This last page looks at sales performance for a salesman. This could help the company decide where to dedicate their training resources.</p>
+<p>&nbsp;</p>
+<p>The final page looks like this</p>
+<img width="917" height="515" alt="image" src="https://github.com/user-attachments/assets/f940e663-d053-4c5e-aa61-50fb9ba480f8" />
+<p>This last page looks at sales performance for a salesman. This could help the company decide where to dedicate their training resources. The two graphs were added to see the same data expressed by two visualisation types.</p>
+</div>
+
+<div>
+<h2>Syncing the Slicers</h2>
+<p>The purpose of this task was sync all of the slicers across the different pages together.</p>
 </div>
