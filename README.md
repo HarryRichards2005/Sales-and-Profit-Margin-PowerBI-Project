@@ -71,6 +71,8 @@
 <h2>Creating a dashboard</h2>
 <img width="842" height="370" alt="image" src="https://github.com/user-attachments/assets/a88a17d0-315b-4d25-8d5d-647f2c0585ed" />
 <p>This is a sales monitoring dashboard. This is done by pinning a visual from the report pages, adding a new tile based on an image URL, and using the Q&A feature to ask a question about the data and have PowerBI respond with a visual.</p>
-<img width="874" height="377" alt="image" src="https://github.com/user-attachments/assets/2ea5cd82-9fac-497e-9c51-59efe4e7f004" />
+<img width="819" height="376" alt="image" src="https://github.com/user-attachments/assets/4feca99e-4f20-4520-8fdb-7fc98aaca7fd" />
+<p>This is a refreshed dashboard after updating the lab database. To do this, I ran a PowerShell script to update the data.</p>
+
 
 </div>
