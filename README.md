@@ -63,6 +63,14 @@
 <img width="1311" height="109" alt="image" src="https://github.com/user-attachments/assets/a5e1c15c-7d88-441a-9d84-278aae3e379b" />
 <img width="1446" height="876" alt="image" src="https://github.com/user-attachments/assets/01e51442-6df7-4d52-aa57-477e552fc7fb" />
 
-<p>This achieves the idea of an interactive dashboard that can breakdown the data by highlighting selected regions and months. On this overview dashboard I can interact with each of the graphs, by clicking on one it will change the rest of them providing me with specfic insights. Because I synced the sliders the same regions are selected when I look at the profit page. The year slider on the "Overview" page and the "My Performance" page also stay the same. </p>
+<p>This achieves the idea of an interactive report that can breakdown the data by highlighting selected regions and months. On this overview dashboard I can interact with each of the graphs, by clicking on one it will change the rest of them providing me with specfic insights. Because I synced the sliders the same regions are selected when I look at the profit page. The year slider on the "Overview" page and the "My Performance" page also stay the same. </p>
+
+</div>
+
+<div>
+<h2>Creating a dashboard</h2>
+<img width="842" height="370" alt="image" src="https://github.com/user-attachments/assets/a88a17d0-315b-4d25-8d5d-647f2c0585ed" />
+<p>This is a sales monitoring dashboard. This is done by pinning a visual from the report pages, adding a new tile based on an image URL, and using the Q&A feature to ask a question about the data and have PowerBI respond with a visual.</p>
+<img width="874" height="377" alt="image" src="https://github.com/user-attachments/assets/2ea5cd82-9fac-497e-9c51-59efe4e7f004" />
 
 </div>
