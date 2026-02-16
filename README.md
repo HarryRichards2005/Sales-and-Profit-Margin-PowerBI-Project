@@ -54,4 +54,15 @@
 <div>
 <h2>Syncing the Slicers</h2>
 <p>The purpose of this task was sync all of the slicers across the different pages together.</p>
+<img width="170" height="155" alt="image" src="https://github.com/user-attachments/assets/a97d5cea-ae18-403a-91bd-26dd64632d40" />
+<img width="178" height="175" alt="image" src="https://github.com/user-attachments/assets/143b684d-1452-4b95-ae50-1e518b72813f" />
+</div>
+
+<div>
+<h2>Publishing the Report</h2>
+<img width="1311" height="109" alt="image" src="https://github.com/user-attachments/assets/a5e1c15c-7d88-441a-9d84-278aae3e379b" />
+<img width="1446" height="876" alt="image" src="https://github.com/user-attachments/assets/01e51442-6df7-4d52-aa57-477e552fc7fb" />
+
+<p>This achieves the idea of an interactive dashboard that can breakdown the data by highlighting selected regions and months. On this overview dashboard I can interact with each of the graphs, by clicking on one it will change the rest of them providing me with specfic insights. Because I synced the sliders the same regions are selected when I look at the profit page. The year slider on the "Overview" page and the "My Performance" page also stay the same. </p>
+
 </div>
