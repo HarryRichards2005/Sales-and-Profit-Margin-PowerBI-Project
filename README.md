@@ -33,7 +33,7 @@
 <p>The purpose of this is to look a profits. We can see the orders, sum of sales, and sum of costs and how it relates to the profit and profit margin. It tells them the performance of certain years and it shows some intersting insights. For example, 2020 had the most orders but the difference between the sum of sales and the costs is so thin compared to the other years resulting in a smaller profit despite having the most sales.</p>
 </div>
 <div>
-<h2>Creating Pagee 3</h2>
+<h2>Creating Page 3</h2>
 <ul>
 <li>I started by inserting the "Salesperson" from the "Salesperson(Performance) table into the filters on this page.</li>
 <li>I added a dropdown slicer containing the "Year" from the "Date" table</li>
